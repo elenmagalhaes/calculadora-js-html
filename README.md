@@ -34,4 +34,4 @@ Efetue o clone do projeto, utilizando o comando abaixo:
 git clone https://github.com/elenmagalhaes/calculadora-js-html.git
 ```
 
-Abra o arquivo *index.html* no navgeador de sua preferência.
+Abra o arquivo *index.html* no navegador de sua preferência.

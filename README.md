@@ -12,8 +12,7 @@ Calculadora desenvolvida em Javascript utilizando tags HTML para os campos da ca
 
 ### Display da calculadora
 
-- Data atual
-- Hora atual atualizada em tempo real
+- Cálculos
 
 ### Bônus
 

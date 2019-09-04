@@ -1,0 +1,27 @@
+{
+  "name": "calculadora-js-html",
+  "version": "1.0.0",
+  "description": "calculadora-js-html",
+  "main": "index.html",
+  "dependencies": {
+    "eslint": "^6.3.0",
+    "bootstrap": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenmagalhaes/calculadora-js-html.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "elen magalhaes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenmagalhaes/calculadora-js-html/issues"
+  },
+  "homepage": "https://github.com/elenmagalhaes/calculadora-js-html#readme"
+}

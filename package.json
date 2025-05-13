@@ -5,7 +5,7 @@
   "main": "index.html",
   "dependencies": {
     "eslint": "^6.3.0",
-    "bootstrap": "^4.1.0"
+    "bootstrap": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
